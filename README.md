@@ -1,3 +1,5 @@
-# Strapi application
+# Strapi CMS Starter Template
 
-A quick description of your strapi application
+> This is a Strapis CMS Starter Template
+
+A minimalistic starter template
